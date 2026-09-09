@@ -3,12 +3,14 @@
     "Name": "ธนกฤต ช่างประเสริฐ",
     "Gmail": "boomly1102@gmail.com",
     "ID": "14124",
-    "Money": 64
+    "Money": 64,
+    "UID" : 0x99 0x71 0xDE 0x11
   },
   {
     "Name": "ณฐนนท์ วงษ์นิพนธ์",
     "Gmail": "tonkao.20000@gmail.com",
     "ID": "14208",
-    "Money": -888
+    "Money": 0,
+    "UID": 0x4C 0x35 0x08 0x07
   }
 ]
