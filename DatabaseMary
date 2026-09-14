@@ -1,5 +1,12 @@
 [
   {
+    "Name": "Admin",
+    "Gmail": "EX",
+    "ID": "00000",
+    "Money": 9999999,
+    "UID": "82A2C341"
+  },
+  {
     "Name": "Miss Nattida Praneetpolkrang",
     "Gmail": "Nattida.pnpk@gmail.com",
     "ID": "95085",
