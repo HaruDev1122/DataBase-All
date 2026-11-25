@@ -1,8 +1,9 @@
 [
   {
     "Token": "Num",
+    "FoodName": "FoodName"
     "Name" : "Owner",
     "CanUse" : "Ture",
-    "NameUse" : None
+    "NameUse" : "None",
   },
 ]
