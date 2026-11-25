@@ -5,6 +5,7 @@
     "Name": "Owner",
     "CanUse": true,
     "NameUse": "None",
-    "Time": "Num"
-  },
+    "Time": "",
+    "OwnerID": "actual-user-id"
+  }
 ]
