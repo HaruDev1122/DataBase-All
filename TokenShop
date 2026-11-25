@@ -10,8 +10,8 @@
     "Token": "18938191",
     "FoodName": "ข้าวสวยร้อนๆ",
     "Name": "Thanakit Changpraseit",
-    "CanUse": "True",
-    "NameUse": "None",
+    "CanUse": "False",
+    "NameUse": "Thanakit Changpraseit",
     "OwnerID": "14124"
   }
 ]
